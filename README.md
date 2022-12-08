@@ -4,6 +4,8 @@ COMS 4995 006 Deep Learning for Computer Vision - Final Project
 
 Deep Learning for Monocular Depth Prediction
 
+Yue Kuang (yk2951@columbia.edu)
+
 ## Description
 
 The objective of this project is to implement a deep learning system that can predict the depth of each pixel. It should map a $H\times W\times 3$ image to a $H\times W\times 1$ depth map. Starting with a self-developed convolutional autoencoder, we also reproduced more complex models such as U-Net with skip connection from scratch. We also tried applying transfer learning where we replace the encoder part with large pre-trained models such as Xception and DenseNet.
