@@ -17,5 +17,5 @@ Quantitative evaluations will be performed on different model architectures we i
 ## Sources
 
 * Source code: [GitHub](https://github.com/kySheryl/Monocular_Depth-Prediction).
-* Report: [Drive](https://drive.google.com/file/d/1QdNO7_ODcYgqMkundIMso1Cf99aWWLls/view?usp=sharing) or [GitHub](https://github.com/kySheryl/Monocular_Depth-Prediction/blob/main/Monocular_Depth_Prediction.pdf)
+* Report: [Drive](https://drive.google.com/file/d/1QdNO7_ODcYgqMkundIMso1Cf99aWWLls/view?usp=sharing) or [GitHub](https://github.com/kySheryl/Monocular_Depth-Prediction/blob/main/report.pdf)
 
